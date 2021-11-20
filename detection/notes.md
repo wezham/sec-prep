@@ -42,3 +42,5 @@ cat /proc/31127/net/sockstat
 ```
 
 ### lsof - view open fd
+
+### tcpdump - can I read traffic on the network card?

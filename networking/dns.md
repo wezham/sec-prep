@@ -44,4 +44,6 @@ Looks as follows:
 | MX | (domain, canoncial_name, `MX`, TTL), alias for mail server |
 
 
+## Why UDP
 
+DNS uses UDP because of the low-cost and little overhead associated with it.
